@@ -69,6 +69,8 @@ function minimunNumber($n, $password)
 }
 
 //
+$password = "AAAAA";
+$n=6;
 
-$result1 = minimunNumber($n1, $password1);
-echo "La contraseña'" . $password1 . "', necesita añadir: " . $result1 . " caracteres.\n"; 
+$result1 = minimunNumber($n, $password);
+echo "La contraseña '" . $password . "', necesita añadir: " . $result1 . " caracteres.\n"; 

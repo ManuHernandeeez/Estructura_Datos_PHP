@@ -1,11 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
+
 <body>
-    
+    <h1>Ejercicios</h1>
+
+    <ul>
+        <li><a href="Ejercicios\6-StrongPassword.php">Ejercicio 6</li>
+
+
+    </ul>
 </body>
+
 </html>
